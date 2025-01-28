@@ -1,62 +1,62 @@
-// let ism = "Akmaljon";
-// console.log("Mening ismim" + ism);
-// // first task completed
+let ism = "Akmaljon";
+console.log("Mening ismim" + ism);
+// first task completed
 
-// let year = 17;
-// console.log(`men ${year} "yoshdaman!`);
-// //second task  completed
+let year = 17;
+console.log(`men ${year} "yoshdaman!`);
+//second task  completed
 
-// let favColor = "Violet";
-// console.log("Mening yoqtirgan rangim:" +  favColor);
-// //third task  completed
+let favColor = "Violet";
+console.log("Mening yoqtirgan rangim:" +  favColor);
+//third task  completed
 
-// let num1 = 120;
-// let num2 = 122;
+let num1 = 120;
+let num2 = 122;
 
-// let plus = num1 + num2;
-// console.log("Yig'indi: " +  plus);
-// //fourth task completed
+let plus = num1 + num2;
+console.log("Yig'indi: " +  plus);
+//fourth task completed
 
-// let text1 = "JavaScript";
-// let text2 = "Java";
+let text1 = "JavaScript";
+let text2 = "Java";
 
-// let text = text1 + " vs " + text2;
-// console.log(text)
-// //fiveth task completed
+let text = text1 + " vs " + text2;
+console.log(text)
+//fiveth task completed
 
-// let userName = prompt("Ismingizni kiriting:");
-// console.log(`Salom, ${userName}!`);
-// //sixth task completed
+let userName = prompt("Ismingizni kiriting:");
+console.log(`Salom, ${userName}!`);
+//sixth task completed
 
-// let userAge = prompt("yoshingizni kiriting:");
-// let presentYear = 2025;
+let userAge = prompt("yoshingizni kiriting:");
+let presentYear = 2025;
 
-// let userAgeValue = presentYear - Number (userAge);
-// console.log(userAgeValue);
-// //seventh task completed
+let userAgeValue = presentYear - Number (userAge);
+console.log(userAgeValue);
+//seventh task completed
 
-// let userNum1 = prompt("Birinchi raqamni kiriting:");
-// let userNum2 = prompt("ikkinchi raqamni kiriting:");
+let userNum1 = prompt("Birinchi raqamni kiriting:");
+let userNum2 = prompt("ikkinchi raqamni kiriting:");
 
-// let value = Number(userNum1) + Number(userNum2);
-// console.log(value);
-// //eightth task  completed
+let value = Number(userNum1) + Number(userNum2);
+console.log(value);
+//eightth task  completed
 
-// let favFruit = prompt("Yoqtirgan mevangizni  kiriting:");
+let favFruit = prompt("Yoqtirgan mevangizni  kiriting:");
 
-// console.log("Sizning yoqtirgan  mevangiz:" + " " + favFruit);
-// //nineth task  completed
+console.log("Sizning yoqtirgan  mevangiz:" + " " + favFruit);
+//nineth task  completed
 
-// let radius = prompt("Doiraning radiusini kiriting:");
-// let p = 3.14;
+let radius = prompt("Doiraning radiusini kiriting:");
+let p = 3.14;
 
-// let yuzasi = p * (Number(radius) ** 2);
-// console.log("Doiraning yuzasi: " + yuzasi);
-// //10th task completed
+let yuzasi = p * (Number(radius) ** 2);
+console.log("Doiraning yuzasi: " + yuzasi);
+//10th task completed
 
-// let request = confirm("Dasturni davom ettirishni hohlaysizmi?");
-// console.log(request ? "Dastur davom ettirilmoqda..." : " Dastur toxtatildi!");
-// //11th task  completed
+let request = confirm("Dasturni davom ettirishni hohlaysizmi?");
+console.log(request ? "Dastur davom ettirilmoqda..." : " Dastur toxtatildi!");
+//11th task  completed
 
 let age = prompt("Yoshingizini kiriting:");
 console.log(age > 18 ? "Siz kattasiz!" : "Siz hali yoshsiz!");
